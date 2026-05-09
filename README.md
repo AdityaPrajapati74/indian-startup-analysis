@@ -22,3 +22,6 @@ https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
 
 What I Learned:-
 This project helped me practice data cleaning, analysis, visualization, and dashboard building using real-world data.
+
+View the Live App Here:-
+https://indian-startup-analysis-nefm3tdnvnknkpuvuyfiai.streamlit.app/
